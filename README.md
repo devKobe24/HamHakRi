@@ -1,5 +1,5 @@
-# ✏️ 함께하는 학습 동아리 "함학리"
-
+# ✏️ 함께하는 학습 동아리 "함학리"<br/>
+<img src = "https://github.com/devKobe24/images/blob/main/%E1%84%92%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A1%E1%86%A8%E1%84%85%E1%85%B5.png?raw=true"><br/>
 ---
 
 ## 🙋‍♂️ 함학리의 목적은 뭘까요?
