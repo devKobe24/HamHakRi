@@ -2,6 +2,11 @@
 <img src = "https://github.com/devKobe24/images/blob/main/%E1%84%92%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A1%E1%86%A8%E1%84%85%E1%85%B5.png?raw=true"><br/>
 ---
 
+## 📓 함학리 WiKi
+- [📓 함학리 WiKi](https://github.com/devKobe24/HamHakRi/wiki)
+
+---
+
 ## 🙋‍♂️ 함학리의 목적은 뭘까요?
 
 1️⃣ **"절대로 서두르지 않고 조급한 마음을 갖지 않고 제대로 학습하기 위함입니다."**<br/>
