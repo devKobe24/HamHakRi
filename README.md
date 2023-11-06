@@ -3,6 +3,7 @@
 ---
 
 ## 📓 함학리 WiKi
+**이곳이 함학리 위키입니다. 여기로 오시면 함학리가 지금까지 공부한 내용을 보실 수 있습니다.**
 - [📓 함학리 WiKi](https://github.com/devKobe24/HamHakRi/wiki)
 
 ---
